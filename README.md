@@ -1,5 +1,5 @@
 # MachineLearningProjects
-House Price Prediction Machine Learning Project
+1)House Price Prediction Machine Learning Project
 This project explores the task of predicting house prices using machine learning techniques. It provides a comprehensive solution for data preprocessing, model training, evaluation, and visualization, focusing on a user-friendly and informative experience.
 
 Key Features:
